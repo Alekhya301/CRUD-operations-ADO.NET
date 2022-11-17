@@ -1,0 +1,8 @@
+C:\Users\alekhya\source\repos\insert-operation\insert-operation\bin\Debug\insert-operation.exe.config
+C:\Users\alekhya\source\repos\insert-operation\insert-operation\bin\Debug\insert-operation.exe
+C:\Users\alekhya\source\repos\insert-operation\insert-operation\bin\Debug\insert-operation.pdb
+C:\Users\alekhya\source\repos\insert-operation\insert-operation\obj\Debug\insert-operation.csproj.AssemblyReference.cache
+C:\Users\alekhya\source\repos\insert-operation\insert-operation\obj\Debug\insert-operation.csproj.SuggestedBindingRedirects.cache
+C:\Users\alekhya\source\repos\insert-operation\insert-operation\obj\Debug\insert-operation.csproj.CoreCompileInputs.cache
+C:\Users\alekhya\source\repos\insert-operation\insert-operation\obj\Debug\insert-operation.exe
+C:\Users\alekhya\source\repos\insert-operation\insert-operation\obj\Debug\insert-operation.pdb
